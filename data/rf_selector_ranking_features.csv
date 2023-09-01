@@ -1,0 +1,728 @@
+,rank,feature
+0,1,teen
+1,2,adult
+2,3,young adult
+3,4,romance
+4,5,fantasy
+5,6,high school
+6,7,children's books
+7,8,high fantasy
+8,9,realistic
+9,10,children
+10,11,epic fantasy
+11,12,dystopia
+12,13,sequential art
+13,14,women
+14,15,love
+15,16,magic
+16,17,friendship
+17,18,paranormal
+18,19,childhood
+19,20,coming of age
+20,21,meh
+21,22,graphics
+22,23,kids
+23,24,supernatural
+24,25,contemporary
+25,26,medieval
+26,27,realistic fiction
+27,28,angst
+28,29,4 stars
+29,30,futuristic
+30,31,middle grade
+31,32,love triangles
+32,33,steamy
+33,34,historical
+34,35,comic read
+35,36,urban fantasy
+36,37,literature
+37,38,teenagers
+38,39,drama
+39,40,classic
+40,41,new adult
+41,42,post apocalyptic
+42,43,comics
+43,44,erotic
+44,45,graphic
+45,46,dragons
+46,47,manga
+47,48,mental health
+48,49,suspense
+49,50,mystery
+50,51,alpha males
+51,52,adventure
+52,53,school
+53,54,history
+54,55,king
+55,56,non-fiction
+56,57,loved
+57,58,survival
+58,59,juvenile
+59,60,orphans
+60,61,male pov
+61,62,all time favorites
+62,63,creepy
+63,64,twist
+64,65,catastrophe
+65,66,apocalyptic
+66,67,storytelling
+67,68,chick lit
+68,69,assassins
+69,70,retellings
+70,71,world war ii
+71,72,tween
+72,73,youth
+73,74,illustrated
+74,75,royalty
+75,76,intense
+76,77,literary
+77,78,angels
+78,79,future
+79,80,middle school
+80,81,alpha
+81,82,thriller
+82,83,romantic
+83,84,graphic novels
+84,85,elementary
+85,86,arc
+86,87,standalone
+87,88,action
+88,89,mythology
+89,90,imagination
+90,91,fun
+91,92,cliffhanger
+92,93,happily ever after
+93,94,vampires
+94,95,scary
+95,96,fairytale retellings
+96,97,relationships
+97,98,bullying
+98,99,europe
+99,100,goth
+100,101,anime
+101,102,novel
+102,103,queer
+103,104,science fiction
+104,105,lgbtqia
+105,106,guilty pleasures
+106,107,21st century
+107,108,psychological
+108,109,sad
+109,110,sex
+110,111,interesting
+111,112,english
+112,113,fiction
+113,114,fairy tales
+114,115,crazy
+115,116,epic
+116,117,writers
+117,118,grief
+118,119,female protagonist
+119,120,work
+120,121,sweet
+121,122,wizards
+122,123,college
+123,124,forbidden love
+124,125,war
+125,126,apocalypse
+126,127,urban
+127,128,smut
+128,129,literary fiction
+129,130,kick ass heroines
+130,131,robberies
+131,132,chapter book
+132,133,adolescence
+133,134,friend to lover
+134,135,summer
+135,136,horror
+136,137,gay
+137,138,life
+138,139,creativity
+139,140,awesome
+140,141,gothic
+141,142,kidnapping
+142,143,space travel
+143,144,drugs
+144,145,novella
+145,146,dark humor
+146,147,france
+147,148,book boyfriends
+148,149,cute
+149,150,alternate history
+150,151,humor
+151,152,detective
+152,153,dark
+153,154,marriage
+154,155,heartbreaking
+155,156,indie
+156,157,modern fiction
+157,158,steampunk
+158,159,japan
+159,160,memoir
+160,161,werewolves
+161,162,beautiful
+162,163,short story
+163,164,thought-provoking
+164,165,destiny
+165,166,diversity
+166,167,women's fiction
+167,168,fighting
+168,169,sexual abuse
+169,170,nerds
+170,171,modern classic
+171,172,fairies
+172,173,american
+173,174,bdsm
+174,175,too short
+175,176,mermaids
+176,177,assassination
+177,178,time travel
+178,179,zombies
+179,180,alternate universe
+180,181,scripts
+181,182,slavery
+182,183,made me cry
+183,184,depressing
+184,185,small towns
+185,186,cia
+186,187,hackers
+187,188,bad boys
+188,189,shapeshifters
+189,190,comedy
+190,191,humour
+191,192,weird
+192,193,murder
+193,194,mummies
+194,195,art
+195,196,biography
+196,197,mf romance
+197,198,underwater
+198,199,spanish civil war
+199,200,nostalgia
+200,201,victorians
+201,202,dark romance
+202,203,19th century
+203,204,mutants
+204,205,boarding school
+205,206,cold war
+206,207,post apocalypse
+207,208,1930s
+208,209,funny
+209,210,recommended
+210,211,cheerleading
+211,212,witches
+212,213,crime
+213,214,mental illness
+214,215,america
+215,216,magical realism
+216,217,las vegas
+217,218,people of color
+218,219,cultural
+219,220,1980s
+220,221,chick flick
+221,222,finance
+222,223,pirates
+223,224,mystery series
+224,225,autobiography
+225,226,hostages
+226,227,police procedural
+227,228,god
+228,229,hot
+229,230,prejudice
+230,231,boring
+231,232,obsession
+232,233,san francisco
+233,234,feel good
+234,235,us history
+235,236,archaeology
+236,237,politics
+237,238,halloween
+238,239,greek mythology
+239,240,morality
+240,241,punk
+241,242,vamp
+242,243,tragedy
+243,244,3 stars
+244,245,england
+245,246,action packed
+246,247,modern
+247,248,rape
+248,249,inspiring
+249,250,alcatraz
+250,251,superheroes
+251,252,sexy
+252,253,short
+253,254,abuse
+254,255,disability
+255,256,memory loss
+256,257,cartoons
+257,258,circus
+258,259,parallel universe
+259,260,speculative fiction
+260,261,military
+261,262,greek
+262,263,cheesy
+263,264,foreign
+264,265,canada
+265,266,race
+266,267,demons
+267,268,alternate reality
+268,269,ninjas
+269,270,uk
+270,271,secrets
+271,272,loneliness
+272,273,pigs
+273,274,culture
+274,275,virus
+275,276,clones
+276,277,nook
+277,278,poland
+278,279,devil
+279,280,nature
+280,281,private detective
+281,282,dreams
+282,283,scotland
+283,284,poverty
+284,285,biographical
+285,286,autism
+286,287,tear-jerker
+287,288,biology
+288,289,depression
+289,290,beach read
+290,291,hong kong
+291,292,alien invasion
+292,293,holocaust
+293,294,adaptation
+294,295,iran
+295,296,guilt
+296,297,true story
+297,298,hilarious
+298,299,picture books
+299,300,revolution
+300,301,civil rights
+301,302,spies
+302,303,travel
+303,304,time
+304,305,intellectual
+305,306,identity
+306,307,birds
+307,308,loved it
+308,309,brothers
+309,310,spiritual
+310,311,scandinavian
+311,312,true crime
+312,313,baseball
+313,314,transgender
+314,315,gods
+315,316,paris
+316,317,disappointing
+317,318,horses
+318,319,gangs
+319,320,vienna
+320,321,voodoo
+321,322,lawyers
+322,323,organized crime
+323,324,modern fantasy
+324,325,inspirational
+325,326,psychiatry
+326,327,fluff
+327,328,revenge
+328,329,billionaires
+329,330,cross dressing
+330,331,sexual
+331,332,disturbing
+332,333,south america
+333,334,sexuality
+334,335,space opera
+335,336,doctors
+336,337,new jersey
+337,338,dark fantasy
+338,339,caper
+339,340,courtroom drama
+340,341,laugh out loud
+341,342,disasters
+342,343,competition
+343,344,dual pov
+344,345,marijuana
+345,346,runaways
+346,347,single father
+347,348,irish
+348,349,haunted house
+349,350,homosexuality
+350,351,stranded
+351,352,airplanes
+352,353,prohibition
+353,354,cloning
+354,355,1920s
+355,356,schizophrenia
+356,357,self development
+357,358,business
+358,359,segregation
+359,360,weddings
+360,361,police
+361,362,androids
+362,363,mother daughter relationships
+363,364,afghanistan
+364,365,families
+365,366,psychological thriller
+366,367,books about books
+367,368,anthology
+368,369,rome
+369,370,character study
+370,371,popular science
+371,372,virtual reality
+372,373,pregnancy
+373,374,personal growth
+374,375,animals
+375,376,self improvement
+376,377,oceans
+377,378,5 stars
+378,379,brainwashing
+379,380,motorcycles
+380,381,musical
+381,382,serial killers
+382,383,courage
+383,384,amnesia
+384,385,australia
+385,386,americas
+386,387,mm romance
+387,388,germany
+388,389,family relationships
+389,390,end of the world
+390,391,fighters
+391,392,immortality
+392,393,prisons
+393,394,italy
+394,395,noir
+395,396,dysfunctional families
+396,397,broadway
+397,398,violence
+398,399,presidents
+399,400,hacking
+400,401,racing
+401,402,biblical
+402,403,computers
+403,404,deserts
+404,405,road trips
+405,406,artificial intelligence
+406,407,dinosaurs
+407,408,cyberpunk
+408,409,great
+409,410,science
+410,411,sport
+411,412,educational
+412,413,fbi
+413,414,faith
+414,415,sisters
+415,416,magic realism
+416,417,isolation
+417,418,chase
+418,419,love story
+419,420,fashion
+420,421,boxing
+421,422,adoption
+422,423,emotional
+423,424,enemy to lover
+424,425,sub
+425,426,environment
+426,427,blindness
+427,428,video games
+428,429,workplace
+429,430,nazis
+430,431,argentina
+431,432,parody
+432,433,african americans
+433,434,greeks
+434,435,hotels
+435,436,strange
+436,437,gritty
+437,438,gambling
+438,439,bomb
+439,440,genocide
+440,441,education
+441,442,genetics
+442,443,heists
+443,444,lesbian
+444,445,nuclear war
+445,446,asia
+446,447,health
+447,448,legal
+448,449,management
+449,450,vigilantes
+450,451,light
+451,452,ghosts
+452,453,silly
+453,454,antarctica
+454,455,usa
+455,456,egypt
+456,457,geeks
+457,458,chess
+458,459,gore
+459,460,philosophy
+460,461,natural disasters
+461,462,camp
+462,463,jazz
+463,464,waste of time
+464,465,texas
+465,466,afterlife
+466,467,latin america
+467,468,utopia
+468,469,aliens
+469,470,physics
+470,471,teleportation
+471,472,entertaining
+472,473,cool
+473,474,tattoos
+474,475,aging
+475,476,india
+476,477,alaska
+477,478,20th century
+478,479,racism
+479,480,world war i
+480,481,suicide
+481,482,moon
+482,483,mountain climbing
+483,484,british
+484,485,internet
+485,486,feminist
+486,487,reference
+487,488,satire
+488,489,olympics
+489,490,contempor​ary
+490,491,submarines
+491,492,humanity
+492,493,mother son relationships
+493,494,treasure
+494,495,imaginary friends
+495,496,basketball
+496,497,alcoholism
+497,498,medicine
+498,499,sociology
+499,500,christmas
+500,501,factual
+501,502,office
+502,503,death
+503,504,romantic comedy
+504,505,toys
+505,506,surfing
+506,507,political
+507,508,cheating
+508,509,censorship
+509,510,teachers
+510,511,cancer
+511,512,australian
+512,513,swedish
+513,514,fish
+514,515,dogs
+515,516,betrayal
+516,517,strippers
+517,518,hitman
+518,519,witty
+519,520,los angeles
+520,521,music
+521,522,mathematics
+522,523,parenting
+523,524,homeless
+524,525,child abuse
+525,526,mafia
+526,527,ireland
+527,528,south africa
+528,529,predictable
+529,530,virgin heroines
+530,531,abortion
+531,532,london
+532,533,puppets
+533,534,berlin
+534,535,football
+535,536,chocolate
+536,537,food
+537,538,poetry
+538,539,espionage
+539,540,africa
+540,541,beer
+541,542,epistolary
+542,543,pulp
+543,544,mexico
+544,545,multicultural
+545,546,1960s
+546,547,cooking
+547,548,monsters
+548,549,hospital
+549,550,secret service
+550,551,spirituality
+551,552,genius
+552,553,global warming
+553,554,justice
+554,555,colonialism
+555,556,banned books
+556,557,shopping
+557,558,medical
+558,559,middle east
+559,560,cozy mystery
+560,561,catholicism
+561,562,new zealand
+562,563,canadian
+563,564,russia
+564,565,quirky
+565,566,money
+566,567,psychology
+567,568,robots
+568,569,california
+569,570,martial arts
+570,571,capitalism
+571,572,ecology
+572,573,trains
+573,574,regency
+574,575,pornography
+575,576,midlife crisis
+576,577,visual
+577,578,adultery
+578,579,memory
+579,580,new york city
+580,581,plays
+581,582,addiction
+582,583,soccer
+583,584,civil war
+584,585,cars
+585,586,rock stars
+586,587,wilderness
+587,588,german
+588,589,social justice
+589,590,boston
+590,591,feminism
+591,592,allegory
+592,593,surprise ending
+593,594,social commentary
+594,595,self help
+595,596,new orleans
+596,597,cults
+597,598,fascism
+598,599,incest
+599,600,18th century
+600,601,metaphysics
+601,602,musicians
+602,603,anti heroes
+603,604,holidays
+604,605,religious
+605,606,story
+606,607,hollywood
+607,608,minnesota
+608,609,technology
+609,610,western
+610,611,theology
+611,612,crude humor
+612,613,solitude
+613,614,aids
+614,615,parenthood
+615,616,terminal illness
+616,617,controversial
+617,618,philosophical
+618,619,southern
+619,620,absurd
+620,621,surreal
+621,622,unique
+622,623,1950s
+623,624,satirical
+624,625,funny as hell
+625,626,death penalty
+626,627,aviation
+627,628,french
+628,629,astronauts
+629,630,reality tv
+630,631,spiders
+631,632,sweden
+632,633,graphic design
+633,634,palestine
+634,635,drinking
+635,636,on writing
+636,637,anti war
+637,638,good
+638,639,evolution
+639,640,heroin
+640,641,italian
+641,642,hawaii
+642,643,economics
+643,644,cuba
+644,645,self discovery
+645,646,cult
+646,647,jewish
+647,648,rabbits
+648,649,surrealism
+649,650,wine
+650,651,conspiracy
+651,652,space
+652,653,finnish
+653,654,native americans
+654,655,2000s
+655,656,rock and roll
+656,657,israel
+657,658,existentialism
+658,659,talking animals
+659,660,animation
+660,661,brazil
+661,662,bizarre
+662,663,father son relationships
+663,664,jews
+664,665,samurai
+665,666,immigrants
+666,667,anti semitism
+667,668,interracial romance
+668,669,celebrity
+669,670,torture
+670,671,spain
+671,672,plot twist
+672,673,gender
+673,674,redemption
+674,675,mining
+675,676,lions
+676,677,prostitution
+677,678,spanish
+678,679,black comedy
+679,680,radio
+680,681,iraq
+681,682,writing
+682,683,leadership
+683,684,cannibalism
+684,685,suburbia
+685,686,courtroom
+686,687,first contact
+687,688,islands
+688,689,essays
+689,690,islam
+690,691,nuclear
+691,692,theater
+692,693,father daughter relationships
+693,694,jungle
+694,695,religion
+695,696,dance
+696,697,insanity
+697,698,television
+698,699,surveillance
+699,700,mars
+700,701,vietnam
+701,702,christian
+702,703,communism
+703,704,terrorism
+704,705,ballet
+705,706,judaism
+706,707,moving
+707,708,tokyo
+708,709,chicago
+709,710,atheism
+710,711,corruption
+711,712,infidelity
+712,713,photography
+713,714,mistaken identity
+714,715,gangsters
+715,716,personal development
+716,717,sharks
+717,718,new york
+718,719,opera
+719,720,investigation
+720,721,mobs
+721,722,china
+722,723,freedom
+723,724,bikers
+724,725,journalism
+725,726,1970s
+726,727,divorce

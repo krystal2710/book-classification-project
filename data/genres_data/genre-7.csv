@@ -1,0 +1,1001 @@
+,item_id,first_genre,second_genre
+0,25387053,Mystery,Romance
+1,24349001,Historical,Historical Fiction
+2,15254937,Mystery,Fiction
+3,644171,Childrens,Classics
+4,2818729,Horror,Fiction
+5,28027377,Nonfiction,History
+6,5149999,Young Adult,Fantasy
+7,3093699,Mystery,Romance
+8,1098725,Science Fiction,Fiction
+9,3412710,Romance,Paranormal Romance
+10,6684749,Sequential Art,Graphic Novels
+11,4197,Fantasy,Urban Fantasy
+12,42308587,Mystery,Young Adult
+13,2060095,Fiction,Book Club
+14,23592700,Young Adult,Science Fiction
+15,48722063,Romance,M M Romance
+16,45666508,Short Stories,Fiction
+17,21574260,Fantasy,Fiction
+18,25631091,New Adult,Romance
+19,21972361,Fantasy,Paranormal
+20,6985333,Young Adult,Fiction
+21,36424330,Young Adult,Science Fiction
+22,2304379,Nonfiction,Music
+23,13394950,Young Adult,Contemporary
+24,1818591,Mystery,Thriller
+25,1016559,Classics,Fiction
+26,9656038,Young Adult,Historical
+27,908343,Music,Nonfiction
+28,43206026,Childrens,Picture Books
+29,47769820,Fantasy,Urban Fantasy
+30,51309735,Romance,Romance
+31,1884932,History,Nonfiction
+32,1333018,Fantasy,Young Adult
+33,17045364,Romance,Paranormal Romance
+34,4242,Young Adult,Fiction
+35,16997854,Historical,Historical Fiction
+36,844184,Childrens,Picture Books
+37,2501416,Fantasy,Fiction
+38,18116002,Nonfiction,Autobiography
+39,45641892,Mystery,Historical
+40,45486740,Fiction,Romance
+41,268880,Historical,Historical Fiction
+42,2842984,Science Fiction,Fiction
+43,18180824,Young Adult,Horror
+44,1070136,Fiction,Contemporary
+45,144656,Fantasy,Fiction
+46,25090285,Romance,Adult Fiction
+47,2852640,Classics,Historical
+48,49728679,Romance,Romance
+49,51103803,Fiction,Mystery
+50,18079742,Historical,Historical Fiction
+51,588034,Fiction,Fantasy
+52,24952557,Fiction,Mystery
+53,43014517,Romance,New Adult
+54,48174412,Romance,Romance
+55,95730,Romance,Historical
+56,15556620,Young Adult,Science Fiction
+57,1329428,Romance,Paranormal Romance
+58,13754899,Sequential Art,Graphic Novels
+59,44092560,Romance,Humor
+60,583590,Fantasy,Young Adult
+61,6790796,Nonfiction,Biography
+62,7201708,Young Adult,Fantasy
+63,2682098,Fiction,Young Adult
+64,26678197,Fiction,Horror
+65,15459675,Young Adult,Fantasy
+66,44897384,Fantasy,Science Fiction
+67,18595863,Young Adult,Romance
+68,51871992,Dark,Sociology
+69,42102380,Romance,Adult Fiction
+70,10168576,Nonfiction,Science
+71,21834933,New Adult,Romance
+72,45355626,Romance,New Adult
+73,50329719,Mystery,Fiction
+74,42846804,Fiction,Mystery
+75,25106298,Romance,New Adult
+76,13439499,Nonfiction,Health
+77,42742312,Mystery,Fiction
+78,4083749,Romance,Fiction
+79,13167517,Fantasy,Urban Fantasy
+80,21823166,Mystery,Thriller
+81,21526221,Young Adult,Contemporary
+82,9674864,Historical,Historical Fiction
+83,45228229,Mystery,Fiction
+84,1080201,Fiction,Classics
+85,7374960,Fantasy,Science Fiction
+86,1022176,Fiction,Thriller
+87,4901046,Fantasy,Childrens
+88,26217310,Romance,New Adult
+89,13125785,Romance,Romance
+90,21985997,New Adult,Romance
+91,25134209,Fantasy,Young Adult
+92,21512725,Nonfiction,Self Help
+93,25999683,Childrens,Picture Books
+94,133088,Childrens,Picture Books
+95,2327400,Mystery,Mystery
+96,57041703,Romance,Contemporary
+97,47758879,Fiction,Young Adult
+98,16252969,Nonfiction,Psychology
+99,466,Poetry,Fiction
+100,1052210,Classics,Plays
+101,42677531,Fantasy,Paranormal
+102,14096818,Fiction,Mystery
+103,14867116,Young Adult,Mystery
+104,23746028,Science Fiction,Fiction
+105,2371237,Sequential Art,Graphic Novels
+106,2915038,Humor,Fantasy
+107,1872003,Childrens,Fiction
+108,15197369,Young Adult,Romance
+109,24241101,New Adult,Romance
+110,48657995,Historical,Historical Fiction
+111,14785438,Young Adult,Mystery
+112,27478077,Childrens,Middle Grade
+113,18714133,Romance,Romance
+114,42709537,Dark,Romance
+115,45072098,Romance,Romance
+116,3280795,Mystery,Childrens
+117,7383328,Mystery,Thriller
+118,623258,Classics,Fiction
+119,14577174,Historical,Historical Fiction
+120,680304,Childrens,Picture Books
+121,2826418,Nonfiction,Politics
+122,19213015,Realistic Fiction,Childrens
+123,51233590,Fiction,Mystery
+124,52694768,Mystery,Thriller
+125,13810543,Fantasy,Short Stories
+126,25129115,Fantasy,Childrens
+127,1902726,Classics,Fiction
+128,11141856,Fiction,Womens Fiction
+129,6474295,Paranormal,Vampires
+130,21392961,Sequential Art,Graphic Novels
+131,2639658,Fiction,Novels
+132,43516764,Fantasy,Fiction
+133,44804811,Historical,Historical Fiction
+134,816009,Classics,Fiction
+135,44997190,Fiction,Womens Fiction
+136,1167068,Horror,Thriller
+137,3567627,Nonfiction,Religion
+138,14093739,Fiction,Mystery
+139,23692026,Young Adult,Thriller
+140,41964998,Dark,Romance
+141,25701205,Humor,Nonfiction
+142,4030673,Fiction,Magical Realism
+143,14147644,Young Adult,Mystery
+144,255083,Sequential Art,Manga
+145,43146310,Sequential Art,Comics
+146,41249879,Contemporary,Young Adult
+147,2712410,Nonfiction,Biography
+148,50306201,Fantasy,Young Adult
+149,6594813,Mystery,Fiction
+150,2435685,Mystery,Thriller
+151,50446813,Romance,Romance
+152,16978039,Romance,Romance
+153,23857270,Sequential Art,Graphic Novels
+154,10851592,Young Adult,Contemporary
+155,39947839,Romance,Young Adult
+156,53207990,Romance,Contemporary
+157,27112719,Mystery,Fiction
+158,1994708,Mystery,Mystery
+159,73811,Plays,Fiction
+160,5424205,Fiction,Novels
+161,26330735,Fantasy,Young Adult
+162,44607233,Romance,Romance
+163,21456971,Romance,Fantasy
+164,18520265,Science Fiction,Fiction
+165,14598314,Mystery,Fiction
+166,21399217,Fantasy,Young Adult
+167,19932371,Science Fiction,Fiction
+168,53537916,Fiction,Magical Realism
+169,4536957,Horror,Fiction
+170,18938981,Education,Nonfiction
+171,52588116,Nonfiction,Politics
+172,6780029,Young Adult,Romance
+173,42744501,Sequential Art,Graphic Novels
+174,18120890,Romance,Christian Fiction
+175,25073414,Romance,Young Adult
+176,2636942,Fiction,Historical
+177,1755348,History,Nonfiction
+178,50328715,Thriller,Mystery
+179,3359767,Fiction,Contemporary
+180,191520,Fiction,Classics
+181,6498897,Fiction,Novels
+182,10730819,Fiction,Historical
+183,12348314,Fiction,Womens Fiction
+184,21845835,Young Adult,Contemporary
+185,18925960,Paranormal,Vampires
+186,44367493,Fiction,Mystery
+187,21823562,Young Adult,Romance
+188,2270643,Fiction,Science Fiction
+189,19140180,Fiction,Humor
+190,23742270,Romance,Contemporary
+191,25601316,Romance,New Adult
+192,7294255,Romance,Paranormal Romance
+193,43263401,Romance,Romance
+194,25521824,Romance,Womens Fiction
+195,20465380,Science Fiction,Dystopia
+196,50666098,Fiction,Mystery
+197,46817113,Feminism,Nonfiction
+198,46521425,Fiction,Mystery
+199,24878978,Young Adult,Fantasy
+200,3795453,Historical,Historical Fiction
+201,2791999,Horror,Fiction
+202,10230258,Fantasy,Mythology
+203,49842497,Romance,Sports
+204,5973842,Historical,Historical Fiction
+205,1440388,Womens Fiction,Chick Lit
+206,2923667,Historical,Historical Fiction
+207,1139516,Fantasy,Fiction
+208,13514467,Fantasy,Fantasy
+209,23166763,Romance,Romance
+210,14479209,Fiction,Religion
+211,2912372,Nonfiction,Psychology
+212,1567032,Sequential Art,Graphic Novels
+213,43744279,Fantasy,Paranormal
+214,1864677,Fantasy,Historical
+215,2519210,Fantasy,Science Fiction
+216,14752133,Fantasy,Science Fiction
+217,23748241,Erotica,BDSM
+218,3127921,Mystery,Mystery
+219,579543,Fantasy,Paranormal
+220,1131006,Fantasy,Fiction
+221,21464713,Romance,Romance
+222,45487238,Historical,Historical Fiction
+223,48558661,Historical,Historical Fiction
+224,10644254,Young Adult,Science Fiction
+225,15941614,Young Adult,Fantasy
+226,49011859,Romance,New Adult
+227,15880539,Fiction,Historical
+228,1846097,Young Adult,Realistic Fiction
+229,25947391,Fantasy,Fantasy
+230,197869,Mystery,Womens Fiction
+231,14854113,Mystery,Romance
+232,128860,Sequential Art,Graphic Novels
+233,24895693,Young Adult,Poetry
+234,45962572,Classics,Fantasy
+235,551195,Fiction,Historical
+236,21861359,Young Adult,Contemporary
+237,81234,Romance,Paranormal Romance
+238,46829911,Romance,Romance
+239,25096149,Autobiography,Memoir
+240,21579567,Romance,Erotica
+241,595978,Fiction,Apocalyptic
+242,1046035,Fiction,Mystery
+243,46003648,Romance,Young Adult
+244,14167526,Romance,Romance
+245,14240586,Paranormal,Angels
+246,1712283,Fantasy,Fiction
+247,46824140,Young Adult,Contemporary
+248,41885482,Historical,Historical Fiction
+249,3981652,Fantasy,Young Adult
+250,16436114,Science Fiction,Steampunk
+251,26488264,Fantasy,Fantasy
+252,29267484,Fantasy,Young Adult
+253,44759727,Historical,Historical Fiction
+254,434352,Childrens,Picture Books
+255,3208572,Horror,Fiction
+256,3254095,Nonfiction,Crime
+257,6328892,Classics,Mystery
+258,2707941,Fiction,American
+259,6615075,Fiction,Fantasy
+260,1128040,Mystery,Fiction
+261,42578930,Fiction,Womens Fiction
+262,24248223,Romance,New Adult
+263,24035833,Fiction,Historical
+264,2390173,Classics,Fiction
+265,3078640,Young Adult,Mystery
+266,882029,Science Fiction,Fiction
+267,1461175,Fiction,Romance
+268,2444552,Nonfiction,History
+269,21823294,Womens Fiction,Chick Lit
+270,25209900,Fantasy,Fantasy
+271,45301289,Young Adult,Fantasy
+272,18086491,Romance,Young Adult
+273,15455819,Paranormal,Vampires
+274,894384,Nonfiction,Christian
+275,1074034,Fiction,Contemporary
+276,45585298,Romance,Fantasy
+277,2283295,Fiction,Classics
+278,1033961,Short Stories,Fiction
+279,21544272,Fantasy,Romance
+280,50354236,Fantasy,Young Adult
+281,43082853,Nonfiction,Autobiography
+282,16351591,Young Adult,Fantasy
+283,21844542,Fiction,Writing
+284,18193670,Mystery,Fiction
+285,15443551,Fantasy,Sequential Art
+286,1105809,Fiction,Humor
+287,48299915,Historical,Historical Fiction
+288,40358210,Mystery,Thriller
+289,43207111,Romance,Romance
+290,18224337,Nonfiction,Self Help
+291,26522334,Horror,Mystery
+292,3969,Historical,Historical Fiction
+293,1532237,Young Adult,LGBT
+294,7604881,Fiction,Romance
+295,2960725,Fantasy,Fiction
+296,1895743,Sequential Art,Graphic Novels
+297,45752195,Fiction,Science Fiction
+298,7162888,Mystery,Fiction
+299,24074025,Young Adult,Science Fiction
+300,3060322,Nonfiction,Autobiography
+301,7039054,Business,Nonfiction
+302,2889659,Fantasy,Young Adult
+303,13341130,Romance,Romance
+304,6886418,Sequential Art,Manga
+305,46030383,Fantasy,Paranormal
+306,42849250,Horror,Fiction
+307,3821158,Young Adult,Mystery
+308,2974214,Young Adult,Fiction
+309,16646156,Young Adult,Contemporary
+310,19219498,Childrens,Picture Books
+311,40864662,Sequential Art,Graphic Novels
+312,3062843,Fiction,Thriller
+313,3140490,Fiction,Parenting
+314,265055,Mystery,Fiction
+315,15024842,Business,Nonfiction
+316,16508966,Young Adult,Fantasy
+317,44222830,Historical,Historical Fiction
+318,21929129,Romance,Womens Fiction
+319,46209947,Historical,Historical Fiction
+320,40901308,Romance,New Adult
+321,45670832,Sequential Art,Graphic Novels
+322,892616,Nonfiction,Autobiography
+323,14795,Nonfiction,Parenting
+324,13341300,Romance,Romance
+325,48857188,Fantasy,Short Stories
+326,1294261,Historical,Historical Fiction
+327,18085671,Romance,Romance
+328,42916911,Young Adult,Contemporary
+329,3324245,Fiction,Philosophy
+330,83062,Historical,Historical Fiction
+331,2004018,Fantasy,Fantasy
+332,868206,Thriller,Fiction
+333,1960084,Classics,Fiction
+334,45137856,Romance,Romance
+335,1568693,Womens Fiction,Chick Lit
+336,50727954,Mystery,Young Adult
+337,41626091,New Adult,Romance
+338,50699014,Fantasy,Young Adult
+339,23634563,Romance,New Adult
+340,779281,Fantasy,Urban Fantasy
+341,13804487,Sequential Art,Graphic Novels
+342,17534296,Historical,Historical Fiction
+343,16494,Fantasy,Urban Fantasy
+344,24342403,Romance,Adult Fiction
+345,14159282,Romance,Romance
+346,1330999,Sequential Art,Graphic Novels
+347,51750675,Science Fiction,Dystopia
+348,45079274,Romance,Romance
+349,7600,History,Nonfiction
+350,41684971,Fantasy,Young Adult
+351,6638686,Young Adult,Fantasy
+352,10621859,Science Fiction,Fiction
+353,24193937,Romance,New Adult
+354,21920564,Romance,Humor
+355,19036077,Young Adult,Fantasy
+356,16256422,Sequential Art,Comics
+357,985211,Fiction,Cultural
+358,44825213,Romance,Science Fiction
+359,40782926,Young Adult,Mystery
+360,1651617,Nonfiction,Philosophy
+361,880193,Nonfiction,Science
+362,21521601,Young Adult,Realistic Fiction
+363,46200778,Fantasy,Urban Fantasy
+364,47250749,Media Tie In,Star Wars
+365,46025287,Fantasy,Young Adult
+366,216590,Mystery,Thriller
+367,2130353,Mystery,Mystery
+368,851956,Historical,Historical Fiction
+369,1009035,Mystery,Thriller
+370,2406151,Fantasy,Fiction
+371,19128868,Young Adult,Romance
+372,19107159,Young Adult,Paranormal
+373,21388912,Horror,Fiction
+374,2252213,Fiction,Historical
+375,25338957,Fantasy,Childrens
+376,2216670,Autobiography,Memoir
+377,108358,Fantasy,Paranormal
+378,37097349,Young Adult,Mystery
+379,44523650,Historical,Historical Fiction
+380,958463,Fantasy,Fiction
+381,8833338,Romance,M M Romance
+382,2462307,Adult Fiction,Erotica
+383,2658613,Fiction,Historical
+384,29303,Psychology,Business
+385,45486674,Historical,Historical Fiction
+386,13152965,Nonfiction,Autobiography
+387,2666806,Nonfiction,Autobiography
+388,6232309,Historical,Historical Fiction
+389,2859278,Mystery,Fiction
+390,909578,Nonfiction,History
+391,21930358,Science Fiction,Fiction
+392,22023964,Nonfiction,Humor
+393,42002485,Historical,Historical Fiction
+394,60390,Realistic Fiction,Childrens
+395,2361348,Fiction,Young Adult
+396,1108519,Mystery,Thriller
+397,45757078,Romance,Romance
+398,24650037,Business,Biography
+399,45666384,Fiction,Cultural
+400,45341154,Romance,Fantasy
+401,24502382,Horror,Young Adult
+402,48015426,Fiction,Womens Fiction
+403,39847614,Romance,Romance
+404,23689362,New Adult,Romance
+405,17995545,Young Adult,Science Fiction
+406,818664,Fiction,Mystery
+407,6683959,Holiday,Christmas
+408,15983,Fantasy,Fiction
+409,14300276,Young Adult,Romance
+410,2607049,Fiction,Mystery
+411,11095627,Young Adult,Mystery
+412,14412693,Paranormal,Vampires
+413,990233,Romance,Romance
+414,42753848,Humor,Fantasy
+415,26151490,Young Adult,Fantasy
+416,45310657,Mystery,Thriller
+417,14331040,Fiction,Womens Fiction
+418,240752,Fantasy,Young Adult
+419,49191147,Historical,Historical Fiction
+420,18981596,Fantasy,Fiction
+421,1460849,Romance,Romance
+422,1805413,Fantasy,Fiction
+423,6230260,Childrens,Middle Grade
+424,43327174,Fantasy,Young Adult
+425,2190500,Science Fiction,Fiction
+426,16403657,Fiction,Cultural
+427,1751542,Mystery,Historical
+428,46035412,Romance,Romance
+429,488848,Fantasy,Young Adult
+430,2349651,Young Adult,Fantasy
+431,19015833,Mystery,Fiction
+432,3295810,Mystery,Fiction
+433,2098332,Womens Fiction,Chick Lit
+434,2501288,Young Adult,Science Fiction
+435,25571658,LGBT,Contemporary
+436,50368413,Romance,Romance
+437,14808326,Young Adult,Fantasy
+438,52472813,Fantasy,Fiction
+439,53685020,Romance,Dark
+440,21899041,Young Adult,Contemporary
+441,26958526,Romance,War
+442,2129865,Young Adult,Realistic Fiction
+443,24152270,Fantasy,Young Adult
+444,1624976,Fantasy,Young Adult
+445,53504581,Thriller,Fiction
+446,6634474,Mystery,Fiction
+447,3128756,Young Adult,Health
+448,48109772,Romance,New Adult
+449,42299020,Sequential Art,Graphic Novels
+450,24601215,Romance,New Adult
+451,40210177,Fiction,Romance
+452,75142,Fiction,Cultural
+453,1532446,Young Adult,Fiction
+454,953226,Fiction,Contemporary
+455,41246725,Romance,New Adult
+456,4326592,Fiction,Holiday
+457,28117,Poetry,Classics
+458,4668853,Historical,Historical Fiction
+459,34868729,Fiction,Mystery
+460,25337516,Fiction,Mystery
+461,16088584,Romance,Romance
+462,13521050,Sequential Art,Graphic Novels
+463,14090854,Romance,Historical Romance
+464,15502514,Fantasy,Fiction
+465,21536760,Food and Drink,Food
+466,20551935,Fiction,Humor
+467,22003364,Romance,New Adult
+468,18288119,Romance,Contemporary
+469,16392681,Romance,Paranormal Romance
+470,21833091,Romance,New Adult
+471,3418597,Fantasy,Young Adult
+472,43070359,Dark,Romance
+473,3153516,Romance,Paranormal Romance
+474,43328972,Nonfiction,Biography
+475,25472339,Romance,Warfare
+476,3078639,Young Adult,Mystery
+477,25779088,Thriller,Fiction
+478,43085307,Fiction,Literary Fiction
+479,2820826,Sequential Art,Graphic Novels
+480,2817307,Young Adult,Science Fiction
+481,26542128,Romance,New Adult
+482,1602613,Nonfiction,Biography
+483,2352220,Romance,Adult Fiction
+484,110559,Language,Writing
+485,2220355,Mystery,Crime
+486,44610068,Romance,New Adult
+487,21880142,Young Adult,Contemporary
+488,1209450,Fiction,Classics
+489,2431188,Fantasy,Young Adult
+490,24689562,Dark,Romance
+491,23580156,Young Adult,Contemporary
+492,721292,Mystery,Fiction
+493,69675,Fiction,Classics
+494,3277447,Classics,Fiction
+495,55015,Business,Nonfiction
+496,3297002,Womens Fiction,Chick Lit
+497,4809336,Horror,Fiction
+498,497415,Thriller,Fiction
+499,1194887,Science Fiction,Fiction
+500,2122285,Fantasy,Fantasy
+501,18222280,Romance,Romance
+502,113589,Childrens,Picture Books
+503,24806292,Childrens,Middle Grade
+504,15014977,Romance,Historical Romance
+505,837760,Historical,Historical Fiction
+506,5210,Economics,Finance
+507,42247018,Childrens,Middle Grade
+508,24876024,Fiction,Historical
+509,436014,Autobiography,Memoir
+510,27477988,Young Adult,Contemporary
+511,22083964,Historical,Historical Fiction
+512,14654952,Science Fiction,Steampunk
+513,26748381,Horror,Young Adult
+514,18072409,Fiction,Science Fiction
+515,2460920,Historical,Historical Fiction
+516,788122,Romance,Historical Romance
+517,3132696,Holiday,Christmas
+518,18180811,Young Adult,Mystery
+519,24901276,Romance,New Adult
+520,46035408,Romance,Romance
+521,49155277,Fiction,Contemporary
+522,1123089,Fantasy,Young Adult
+523,819610,Fantasy,Fiction
+524,31779,Fiction,Contemporary
+525,4668682,Historical,Historical Fiction
+526,42991119,Young Adult,Contemporary
+527,18468023,Historical,Historical Fiction
+528,6257526,Fiction,Womens Fiction
+529,6863789,Fantasy,Paranormal
+530,1136805,Womens Fiction,Chick Lit
+531,220527,Historical,Historical Fiction
+532,40159220,Fantasy,Young Adult
+533,40863995,Childrens,Middle Grade
+534,42912214,Science,Nonfiction
+535,41848992,Young Adult,Fantasy
+536,47206763,Nonfiction,Psychology
+537,42295125,Sequential Art,Graphic Novels
+538,19041763,Christian,Nonfiction
+539,26654499,New Adult,Romance
+540,4633523,Fantasy,Urban Fantasy
+541,26755968,Fiction,Contemporary
+542,43014520,Romance,New Adult
+543,43073419,New Adult,Mystery
+544,41048996,Romance,Adult Fiction
+545,26537421,Mystery,Science Fiction
+546,41337326,Historical,Historical Fiction
+547,40000267,Nonfiction,Autobiography
+548,46009964,Nonfiction,Autobiography
+549,80353,Romance,Historical
+550,840191,Fantasy,Fiction
+551,16243683,Mystery,Romance
+552,600345,Fiction,Contemporary
+553,2710546,Nonfiction,Health
+554,52815058,Romance,Romance
+555,544922,Health,Nonfiction
+556,21840846,New Adult,Romance
+557,18912593,Fiction,Mystery
+558,45844277,Fiction,Womens Fiction
+559,47477473,Historical,Historical Fiction
+560,21814324,Historical,Historical Fiction
+561,18360833,Philosophy,Nonfiction
+562,48100718,Romance,Young Adult
+563,6488344,Fiction,Literary Fiction
+564,53508733,Mystery,Fiction
+565,40859663,Nonfiction,Self Help
+566,42386247,Fantasy,Young Adult
+567,15162169,Young Adult,Fantasy
+568,45977131,Fantasy,Romance
+569,22007254,Romance,Christian Fiction
+570,3234368,Childrens,Humor
+571,24803357,Romance,Humor
+572,42818499,Romance,Womens Fiction
+573,21489886,Erotica,BDSM
+574,31912,History,Nonfiction
+575,50363310,Romance,Romance
+576,42676401,Mystery,Thriller
+577,26659491,Mystery,Crime
+578,1154187,Historical,Historical Fiction
+579,259783,Horror,Young Adult
+580,22937956,Romance,Adult Fiction
+581,1814587,Childrens,Picture Books
+582,26174356,Fiction,Science Fiction
+583,33027161,Romance,New Adult
+584,382708,Fantasy,Young Adult
+585,12937172,Science Fiction,Steampunk
+586,1500218,Fiction,Humor
+587,32643007,Autobiography,Memoir
+588,3873014,Business,Leadership
+589,1866210,Fantasy,Young Adult
+590,17993650,Fantasy,Childrens
+591,25637928,Romance,Womens Fiction
+592,6763564,Nonfiction,Business
+593,21405631,Romance,Paranormal Romance
+594,45315154,Fiction,Mystery
+595,1792180,Fiction,Thriller
+596,23594735,Horror,Historical
+597,1468406,Short Stories,Fiction
+598,41093647,Romance,Young Adult
+599,2432390,Fantasy,Young Adult
+600,18115361,Fantasy,Urban Fantasy
+601,2489807,Historical,Historical Fiction
+602,3088909,Fantasy,Short Stories
+603,1537541,Fantasy,Young Adult
+604,1931181,Romance,Paranormal Romance
+605,42744285,Fiction,Mystery
+606,43903656,Romance,Fantasy
+607,771451,Historical,Historical Fiction
+608,3888605,Fantasy,Young Adult
+609,21653636,Nonfiction,Humor
+610,15570126,Classics,Horror
+611,16749009,Fantasy,Young Adult
+612,21991637,Romance,Romance
+613,3082377,Mystery,Fiction
+614,25350097,Mystery,Childrens
+615,23905697,Romance,New Adult
+616,1121318,Fiction,Cultural
+617,1934157,Fantasy,Fiction
+618,14428619,Romance,Paranormal Romance
+619,731,Humor,Nonfiction
+620,53386542,Romance,Dark
+621,7192827,Mystery,Thriller
+622,7088029,Childrens,Picture Books
+623,1096,Fiction,Fantasy
+624,6982184,Fiction,Contemporary
+625,16009906,Young Adult,Contemporary
+626,538087,Horror,Fiction
+627,26488096,Romance,New Adult
+628,19194510,Mystery,Fiction
+629,18204838,Romance,Paranormal Romance
+630,1136422,Fantasy,Urban Fantasy
+631,6560290,Young Adult,Fiction
+632,23632707,Romance,New Adult
+633,2615068,Childrens,Fantasy
+634,46154294,Romance,Contemporary
+635,46175714,Romance,Romance
+636,21856269,Romance,Womens Fiction
+637,14458226,Fantasy,Urban Fantasy
+638,1902274,Sequential Art,Manga
+639,11259924,Fiction,Mystery
+640,18979477,Young Adult,Science Fiction
+641,24748164,Science Fiction,Fiction
+642,25187673,New Adult,Romance
+643,15854293,Young Adult,Science Fiction
+644,1187279,Fiction,Mystery
+645,29348,Romance,Historical Romance
+646,48107115,Childrens,Picture Books
+647,18157137,Romance,Paranormal Romance
+648,1429851,Nonfiction,Autobiography
+649,361223,Fantasy,Young Adult
+650,15333446,Mystery,Young Adult
+651,54169389,Fantasy,Young Adult
+652,1024495,Mystery,Fiction
+653,43692188,Sequential Art,Graphic Novels
+654,22000005,Romance,M M Romance
+655,7085183,Romance,Paranormal Romance
+656,21865739,Fiction,Historical
+657,29532521,Dark,Sociology
+658,15778276,Fantasy,Urban Fantasy
+659,985716,Nonfiction,Biography
+660,6789865,Holiday,Christmas
+661,1715356,Fiction,Science Fiction
+662,42805953,Young Adult,Science Fiction
+663,6420803,Sequential Art,Comics
+664,21823574,Young Adult,Contemporary
+665,26915698,Fantasy,Young Adult
+666,602355,Paranormal,Vampires
+667,24083056,Romance,New Adult
+668,43457975,Fiction,Contemporary
+669,1981453,Romance,Romance
+670,13402207,Young Adult,Fantasy
+671,557215,Nonfiction,Science
+672,13335096,Young Adult,Contemporary
+673,1017370,Young Adult,Fiction
+674,1110983,Fiction,Thriller
+675,20713994,Paranormal,Vampires
+676,1786290,Fiction,Classics
+677,3238632,Fantasy,Fiction
+678,45594605,Fantasy,Young Adult
+679,879886,Childrens,Fiction
+680,15702658,Fantasy,Fantasy
+681,45771330,Fantasy,Young Adult
+682,5902518,Fiction,Science Fiction
+683,1285373,Childrens,Picture Books
+684,17127576,Romance,M M Romance
+685,50430647,Fantasy,Young Adult
+686,24757326,Romance,Romance
+687,6734901,Mystery,Romance
+688,430173,History,Nonfiction
+689,10568858,Fiction,Humor
+690,13122191,Historical,Historical Fiction
+691,10492902,Fiction,Womens Fiction
+692,46189029,Fantasy,Young Adult
+693,49474397,Fantasy,Romance
+694,42847591,Romance,Romance
+695,1657128,Horror,Fiction
+696,1093522,Horror,Fiction
+697,19035562,Young Adult,Fantasy
+698,27349328,Romance,Adult Fiction
+699,42483686,Young Adult,Romance
+700,50513878,Fiction,Contemporary
+701,19697088,Young Adult,Science Fiction
+702,15776231,Young Adult,Fantasy
+703,51246585,Fantasy,Fiction
+704,1027995,Fiction,Classics
+705,54420957,Mystery,Fiction
+706,52957508,Historical,Historical Fiction
+707,17797669,Young Adult,Science Fiction
+708,2256479,Historical,Historical Fiction
+709,45609768,Romance,Romance
+710,19028800,Romance,Romance
+711,6444486,Fiction,Contemporary
+712,1133797,Classics,Fiction
+713,24336678,Historical,Historical Fiction
+714,42883994,Sequential Art,Graphic Novels
+715,2834931,Fiction,Historical
+716,24064642,Fantasy,Urban Fantasy
+717,50727814,Historical,Historical Fiction
+718,783228,Short Stories,Fiction
+719,3594131,Mystery,Adventure
+720,15400368,Mystery,Fiction
+721,41110870,Romance,Young Adult
+722,10282187,Science Fiction,Steampunk
+723,46167700,Mystery,Fiction
+724,3154548,Fiction,Thriller
+725,52108863,Horror,Young Adult
+726,1007843,Fiction,Feminism
+727,3561666,Romance,Romance
+728,47297488,Sequential Art,Graphic Novels
+729,24064539,Historical,Historical Fiction
+730,18982957,Fantasy,Young Adult
+731,14597425,Mystery,Fiction
+732,40224712,Fantasy,Fantasy
+733,2649,Fantasy,Childrens
+734,24354415,Young Adult,Poetry
+735,21560730,New Adult,Romance
+736,43126953,New Adult,Romance
+737,2158928,Fantasy,Young Adult
+738,21545889,Mystery,Fiction
+739,46189043,Fiction,Romance
+740,802336,Fantasy,Childrens
+741,41686925,Mystery,Young Adult
+742,45636096,Mystery,Fiction
+743,45169414,Romance,Romance
+744,903474,History,Nonfiction
+745,1207111,Historical,Historical Fiction
+746,2495143,Fiction,Historical
+747,41304900,Sequential Art,Graphic Novels
+748,14996005,Fiction,Historical
+749,16086233,Fantasy,Paranormal
+750,10935145,Nonfiction,Autobiography
+751,15248926,Paranormal,Angels
+752,21899169,Thriller,Horror
+753,5674279,Young Adult,Romance
+754,30107715,Fantasy,Fantasy
+755,25257114,Fantasy,Young Adult
+756,62360,Fantasy,Fiction
+757,1222661,Fiction,Classics
+758,45024168,Dark,Romance
+759,47109482,Romance,Romance
+760,1298936,Fiction,Thriller
+761,929672,Fantasy,Fiction
+762,44889888,Romance,New Adult
+763,45858663,Christian Fiction,Mystery
+764,21444710,Fantasy,Fantasy
+765,6863513,Romance,Historical
+766,44495620,Mystery,Young Adult
+767,14161759,Romance,Young Adult
+768,45665763,Womens Fiction,Chick Lit
+769,45948189,Romance,Contemporary
+770,26330739,Young Adult,Science Fiction
+771,25489091,Fiction,Womens Fiction
+772,730764,Sequential Art,Graphic Novels
+773,19060160,Young Adult,Fantasy
+774,317973,Fiction,Fantasy
+775,39901420,Contemporary,Young Adult
+776,19058165,Fantasy,Young Adult
+777,26470741,Fiction,Womens Fiction
+778,6654033,Young Adult,Romance
+779,385351,Young Adult,Paranormal
+780,26473363,Romance,Young Adult
+781,3333606,Fiction,Historical
+782,23569381,New Adult,Romance
+783,26037994,Historical,Historical Fiction
+784,6570901,Romance,M M Romance
+785,21573757,Young Adult,Science Fiction
+786,6967609,Fantasy,Young Adult
+787,15083372,Fantasy,Urban Fantasy
+788,25279289,Young Adult,Mystery
+789,42807209,Young Adult,Romance
+790,26654494,Romance,New Adult
+791,1855987,Classics,Fantasy
+792,46188959,Science Fiction,Dystopia
+793,47727087,Fiction,Contemporary
+794,2192688,Sequential Art,Manga
+795,6627894,Fantasy,Young Adult
+796,6593483,Nonfiction,Biography
+797,1100537,Fantasy,Young Adult
+798,6749788,Fantasy,Urban Fantasy
+799,257399,Parenting,Nonfiction
+800,17370885,Fiction,Historical
+801,6640343,Historical,Historical Fiction
+802,895780,Young Adult,Paranormal
+803,46190748,Science,Nonfiction
+804,5083472,Romance,Romance
+805,16686462,Mystery,Fiction
+806,24175213,Romance,New Adult
+807,52922245,Romance,Romance
+808,45797441,Romance,Romance
+809,2095997,Fantasy,Childrens
+810,274128,LGBT,Young Adult
+811,912230,Womens Fiction,Chick Lit
+812,26431596,Fiction,Womens Fiction
+813,1316297,Horror,Fiction
+814,41240779,Historical,Historical Fiction
+815,38754,Thriller,Mystery
+816,19154394,Science Fiction,Fiction
+817,45251354,Romance,Contemporary
+818,6461540,Fantasy,Romance
+819,21856153,Fiction,Womens Fiction
+820,42916962,Young Adult,Contemporary
+821,16448858,Romance,Paranormal Romance
+822,25337937,Romance,War
+823,14754226,Nonfiction,Autobiography
+824,141162,History,Nonfiction
+825,45956859,Historical,Historical Fiction
+826,24164188,Fantasy,Paranormal
+827,50575377,Fiction,Mystery
+828,52599317,Romance,Fiction
+829,13667879,Romance,Paranormal Romance
+830,21986528,Fiction,Humor
+831,2335405,Young Adult,Romance
+832,28143123,Fantasy,Magical Realism
+833,16979391,Mystery,Mystery
+834,18819996,Romance,M M Romance
+835,50770846,Romance,Romance
+836,115813,Historical,Historical Fiction
+837,15558522,Romance,Paranormal Romance
+838,939042,Young Adult,Fiction
+839,15285765,Young Adult,Science Fiction
+840,2820344,Romance,Historical Romance
+841,26680460,Nonfiction,Science
+842,5727718,Fiction,Womens Fiction
+843,17003601,Fiction,Mystery
+844,50071184,Erotica,BDSM
+845,23592662,Childrens,Picture Books
+846,10284455,Science Fiction,Dystopia
+847,2321293,Fantasy,Fantasy
+848,45472,Autobiography,Memoir
+849,2444564,Fiction,Historical
+850,43079747,Dark,Romance
+851,15302,Mystery,Fiction
+852,6470079,Science Fiction,Steampunk
+853,1011388,Science Fiction,Fantasy
+854,24499942,Nonfiction,World War II
+855,1738813,Horror,Fantasy
+856,18285318,Romance,Romance
+857,405136,Fiction,Historical
+858,44831742,Romance,New Adult
+859,45866218,Romance,Romance
+860,51840657,Young Adult,LGBT
+861,13867623,Mystery,Thriller
+862,13163404,Young Adult,Fantasy
+863,25423166,Romance,Romance
+864,16205259,Romance,Sports
+865,229722,Nonfiction,History
+866,6789709,Fiction,Historical
+867,42566942,Romance,Romance
+868,45437448,Sequential Art,Graphic Novels
+869,2482870,Fiction,Literature
+870,49177757,Fiction,Historical
+871,21495195,Fantasy,Childrens
+872,1254155,Fiction,Thriller
+873,2028071,Historical,Historical Fiction
+874,10953171,Childrens,Picture Books
+875,13803434,Fantasy,Urban Fantasy
+876,2785303,Fantasy,Young Adult
+877,44858469,Science Fiction,Romance
+878,13451574,Thriller,Mystery
+879,17016133,Young Adult,Contemporary
+880,3130939,Young Adult,Fantasy
+881,1293084,Fantasy,Fantasy
+882,24284974,Fantasy,Young Adult
+883,17054802,Fantasy,Urban Fantasy
+884,49676646,Romance,Contemporary
+885,41885500,Contemporary,Romance
+886,24078173,New Adult,Romance
+887,40257740,Sequential Art,Comics
+888,42702916,Romance,Romance
+889,43458443,Sequential Art,Graphic Novels
+890,824600,Childrens,Fiction
+891,24969046,Mystery,Thriller
+892,50360508,Romance,Romance
+893,21856181,Young Adult,Romance
+894,18606097,Poetry,Feminism
+895,43879416,Romance,New Adult
+896,25854,Sequential Art,Graphic Novels
+897,19059878,Young Adult,Fantasy
+898,15709019,Poetry,Fiction
+899,7205526,Nonfiction,Science
+900,21952704,Romance,Historical
+901,341789,Mystery,Fiction
+902,88871,Sequential Art,Graphic Novels
+903,2563621,Romance,Romance
+904,23628709,Romance,New Adult
+905,18645895,Young Adult,Mystery
+906,48882070,Childrens,Picture Books
+907,21892546,Science Fiction,Dystopia
+908,1139032,Language,Writing
+909,4019291,Fantasy,Fiction
+910,13086734,Historical,Historical Fiction
+911,23673,Nonfiction,Autobiography
+912,46065520,Science Fiction,Fiction
+913,261903,Childrens,Picture Books
+914,134485,Historical,Historical Fiction
+915,48117895,Womens Fiction,Chick Lit
+916,16995682,Womens Fiction,Chick Lit
+917,13039189,Romance,Sports
+918,41797265,History,Nonfiction
+919,900927,Fiction,Classics
+920,2318048,Childrens,Picture Books
+921,18236513,Shapeshifters,Werewolves
+922,13678210,Fantasy,Paranormal
+923,51600167,Fiction,Magical Realism
+924,7262107,Mystery,Thriller
+925,40354656,Fantasy,Romance
+926,43000346,Romance,Romance
+927,25807269,Fiction,Art
+928,21506045,Historical,Historical Fiction
+929,1595511,Classics,Fiction
+930,43903476,Fiction,Contemporary
+931,26230010,New Adult,Romance
+932,312362,Young Adult,Romance
+933,42164542,Fiction,Mystery
+934,1098593,Fantasy,Fiction
+935,42938354,Fiction,Historical
+936,95744,Nonfiction,Psychology
+937,52064372,Sports,Sports
+938,23590922,Mystery,Thriller
+939,2977991,Womens Fiction,Chick Lit
+940,1245618,Mystery,Fiction
+941,42097267,Romance,Romance
+942,1322982,Horror,Fiction
+943,21531216,Fantasy,Young Adult
+944,24034717,Realistic Fiction,Childrens
+945,37105486,New Adult,Romance
+946,40167149,Horror,Fantasy
+947,20408849,Womens Fiction,Chick Lit
+948,2722196,Fantasy,Urban Fantasy
+949,25048760,Romance,New Adult
+950,18699235,Romance,Romance
+951,34393786,Science Fiction,Humor
+952,5090918,Romance,Romance
+953,49038755,Fiction,LGBT
+954,26493639,Historical,Historical Fiction
+955,14648058,Romance,Romance
+956,505277,Realistic Fiction,Childrens
+957,15281561,Romance,Historical Romance
+958,42657804,Young Adult,Mystery
+959,26488025,Romance,New Adult
+960,3312354,Mystery,Young Adult
+961,54097801,Romance,Romance
+962,3285909,History,Nonfiction
+963,42499118,Short Stories,Fiction
+964,156439,Young Adult,Fiction
+965,128025,Parenting,Nonfiction
+966,2528139,Science Fiction,Fiction
+967,46829059,Romance,Historical Romance
+968,26633790,Horror,Young Adult
+969,36123954,Romance,War
+970,1840987,Self Help,Nonfiction
+971,45786098,Historical,Historical Fiction
+972,960794,Historical,Historical Fiction
+973,3239501,Womens Fiction,Chick Lit
+974,2208374,Mystery,Fiction
+975,1363261,Historical,Historical Fiction
+976,16448864,Romance,Paranormal Romance
+977,38002023,Young Adult,Mystery
+978,38053447,Nonfiction,Business
+979,14465478,Paranormal,Vampires
+980,6727073,Humor,Comedy
+981,14147620,Womens Fiction,Chick Lit
+982,1127182,Mystery,Fiction
+983,43981602,Fantasy,Young Adult
+984,24968727,New Adult,Romance
+985,26493480,Mystery,Fiction
+986,21873437,Fiction,Historical
+987,47968016,Romance,Romance
+988,18166592,Fantasy,Romance
+989,18650,Fiction,Contemporary
+990,18227944,Young Adult,Science Fiction
+991,53521810,Horror,Mystery
+992,846764,Romance,Romance
+993,6558709,Young Adult,Paranormal
+994,45585749,Childrens,Picture Books
+995,43458371,Romance,Dark
+996,25489101,Romance,Adult Fiction
+997,18015113,Fantasy,Young Adult
+998,23753651,Fantasy,Young Adult
+999,25333846,Young Adult,Mystery
